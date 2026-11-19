@@ -1,0 +1,47 @@
+[
+  {
+    "id": "slot1",
+    "performance": "河剧十八日晚",
+    "act": "第一幕",
+    "role": "渡人",
+    "performer": "卢遥",
+    "stageName": "Lu Yao",
+    "locale": "zh"
+  },
+  {
+    "id": "slot2",
+    "performance": "河剧十八日晚",
+    "act": "第二幕",
+    "role": "渡人",
+    "performer": "卢遥",
+    "stageName": "Lu Yao",
+    "locale": "zh"
+  },
+  {
+    "id": "slot3",
+    "performance": "河剧十九日晚",
+    "act": "第一幕",
+    "role": "渡人",
+    "performer": "宋遥",
+    "stageName": "Song Yao",
+    "locale": "zh"
+  },
+  {
+    "id": "slot4",
+    "performance": "河剧十九日晚",
+    "act": "第二幕",
+    "role": "渡人",
+    "performer": "宋遥",
+    "stageName": "Song Yao",
+    "locale": "zh"
+  },
+  {
+    "id": "slot5",
+    "performance": "河剧十九日晚",
+    "act": "第二幕",
+    "role": "河神",
+    "performer": "宋鹞",
+    "stageName": "Song Yao",
+    "locale": "zh"
+  }
+]

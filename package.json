@@ -1,0 +1,14 @@
+{
+  "name": "performance-edition-programmes",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "剧场排演备忘",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}
