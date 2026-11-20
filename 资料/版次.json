@@ -1,0 +1,77 @@
+[
+  {
+    "id": "draft-general",
+    "title": "通用节目册内页（未付印）",
+    "kind": "draft",
+    "scope": { "performanceIds": [], "acts": null },
+    "copyIds": ["copy1"]
+  },
+  {
+    "id": "paper-18",
+    "title": "十八日晚节目册卡司页",
+    "kind": "paper",
+    "scope": { "performanceIds": ["河剧|18|晚场"], "acts": null },
+    "castCells": [
+      { "act": "第一幕", "role": "渡人", "performer": "卢遥", "stageName": "Lu Yao" },
+      { "act": "第二幕", "role": "渡人", "performer": "卢遥", "stageName": "Lu Yao" }
+    ],
+    "deliveredAt": "2026-10-18T17:30:00+08:00",
+    "issuedAt": "2026-10-18T17:30:00+08:00",
+    "revision": 1
+  },
+  {
+    "id": "paper-19-bio",
+    "title": "十九日晚演员小传",
+    "kind": "paper",
+    "scope": { "performanceIds": ["河剧|19|晚场"], "acts": null },
+    "castCells": [
+      { "act": "第一幕", "role": "渡人", "performer": "宋遥", "stageName": "Song Yao" },
+      { "act": "第二幕", "role": "渡人", "performer": "宋遥", "stageName": "Song Yao" }
+    ],
+    "deliveredAt": "2026-10-19T12:00:00+08:00",
+    "issuedAt": "2026-10-19T12:00:00+08:00",
+    "revision": 1
+  },
+  {
+    "id": "paper-19-intro",
+    "title": "十九日晚节目介绍（英文）",
+    "kind": "paper",
+    "scope": { "performanceIds": ["河剧|19|晚场"], "acts": null },
+    "copyIds": ["copy2"],
+    "castCells": [
+      { "act": "第二幕", "role": "渡人", "performer": "宋遥", "stageName": "Song Yao" }
+    ],
+    "translationReview": {
+      "signature": [
+        { "act": "第二幕", "role": "渡人", "performer": "宋遥", "stageName": "Song Yao" }
+      ]
+    },
+    "deliveredAt": "2026-10-19T12:00:00+08:00",
+    "issuedAt": "2026-10-19T12:00:00+08:00",
+    "revision": 1
+  },
+  {
+    "id": "errata-19-act2",
+    "title": "十九日晚第二幕改页",
+    "kind": "erratum",
+    "erratumFor": "paper-19-bio",
+    "scope": { "performanceIds": ["河剧|19|晚场"], "acts": ["第二幕"] },
+    "castCells": [
+      { "act": "第二幕", "role": "渡人", "performer": "程秋", "stageName": "Cheng Qiu" }
+    ],
+    "issuedAt": "2026-10-19T18:30:00+08:00",
+    "revision": 2
+  },
+  {
+    "id": "electronic-19",
+    "title": "十九日晚电子页（取票场次用）",
+    "kind": "electronic",
+    "scope": { "performanceIds": ["河剧|19|晚场"], "acts": null },
+    "castCells": [
+      { "act": "第一幕", "role": "渡人", "performer": "宋遥", "stageName": "Song Yao" },
+      { "act": "第二幕", "role": "渡人", "performer": "程秋", "stageName": "Cheng Qiu" }
+    ],
+    "issuedAt": "2026-10-19T18:45:00+08:00",
+    "revision": 3
+  }
+]
